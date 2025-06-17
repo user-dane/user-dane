@@ -1,34 +1,56 @@
-# Dane A Bowman-Weston
+# 🧑🏽‍💻 DANE A BOWMAN-WESTON —
+
+
+
+
+## 🔨 CURRENT PROJECTS —
+
+<details>
+  <summary>More...</summary>
+  <br>
+  
+  [![Test Repo](https://github-readme-stats.vercel.app/api/pin/?username=user-dane&repo=test_repo)](https://github.com/user-dane/test_repo)
+    
+</details>
+
+
+
+
+## ⭐ FAVORITE PROJECTS —
+
+<details>
+  <summary>More...</summary>
+  <br>
+  
+  [![Test Repo](https://github-readme-stats.vercel.app/api/pin/?username=user-dane&repo=test_repo)](https://github.com/user-dane/test_repo)
+  
+</details>
+
+
+
+
+## ✅ STATS —
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user-dane&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+
+## 📞 CONTACT —
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/danebowmanweston/">
-    <img src="https://img.shields.io/badge/-in-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Logo"/>
+    <img src="https://img.shields.io/badge/in-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn Logo" />
   </a>
   <a href="https://www.linkedin.com/in/danebowmanweston/" target="_blank">
-    <img src="https://img.shields.io/badge/danebowmanweston-000000?style=flat-square&color=white" alt="LinkedIn Username"/>
+    <img src="https://img.shields.io/badge/danebowmanweston-black?style=flat-square&color=white" alt="LinkedIn Username" />
   </a>
   
   <a href="mailto:dbowmanweston@gmail.com">
-    <img src="https://img.shields.io/badge/-mail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Logo"/>
+    <img src="https://img.shields.io/badge/-red?logo=gmail&logoColor=white&style=flat-square" alt="Gmail Logo" />
   </a>
   <a href="mailto:dbowmanweston@gmail.com">
-    <img src="https://img.shields.io/badge/dbowmanweston-000000?style=flat-square&color=white" alt="Gmail Username"/>
+    <img src="https://img.shields.io/badge/dbowmanweston-black?style=flat-square&color=white" alt="Gmail Username" />
   </a>
 </div>
-
-## Current Projects
-<details>
-  <summary>...</summary>
-  <br>
-    TODO
-</details>
-
-## Favorite Projects
-<details>
-  <summary>...</summary>
-  <br>
-    TODO
-</details>
 
