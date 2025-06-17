@@ -1,9 +1,9 @@
-# 🧑🏽‍💻 DANE A BOWMAN-WESTON —
+# DANE A BOWMAN-WESTON —
+
+---
 
 
-
-
-## 🔨 CURRENT PROJECTS —
+## 🛠️ CURRENT PROJECTS 🛠️
 
 <details>
   <summary>More...</summary>
@@ -13,10 +13,12 @@
     
 </details>
 
+---
 
 
 
-## ⭐ FAVORITE PROJECTS —
+
+## ⭐ FAVORITE PROJECTS ⭐
 
 <details>
   <summary>More...</summary>
@@ -26,17 +28,21 @@
   
 </details>
 
-
-
-
-## ✅ STATS —
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user-dane&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 
 
 
-## 📞 CONTACT —
+## ✔️ STATS ✔️
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user-dane&layout=compact&theme=vision-friendly-dark&size_weight=0.5&count_weight=0.5)
+
+---
+
+
+
+
+## 📞 CONTACT 📞
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/danebowmanweston/">
@@ -54,3 +60,4 @@
   </a>
 </div>
 
+---
