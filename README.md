@@ -9,7 +9,7 @@
   <summary>More...</summary>
   <br>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=user-dane&repo=test_repo)](https://github.com/user-dane/test_repo)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=user-dane&repo=test_repo&theme=vision-friendly-dark)](https://github.com/user-dane/test_repo)
     
 </details>
 
@@ -22,7 +22,7 @@
   <summary>More...</summary>
   <br>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=user-dane&repo=test_repo)](https://github.com/user-dane/test_repo)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=user-dane&repo=test_repo&theme=vision-friendly-dark)](https://github.com/user-dane/test_repo)
   
 </details>
 
