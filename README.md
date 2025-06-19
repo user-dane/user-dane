@@ -1,23 +1,31 @@
 <h1 align="center">
+
+  <!-- Name -->
+  Dane Bowman-Weston
+  <!-- Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&duration=4000&pause=200&color=FFFFFF&center=false&vCenter=true&width=300&height=22&lines=Electrical+Engineer.;Computer+Engineer." alt="Typing SVG" />
+  
+</h1>
+
+<p align="center">
   <!-- Contact Info: LinedIn -->
+  
   <a href="https://www.linkedin.com/in/danebowmanweston/">
     <img src="https://img.shields.io/badge/in-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn Logo" />
   </a>
   <a href="https://www.linkedin.com/in/danebowmanweston/" target="_blank">
     <img src="https://img.shields.io/badge/danebowmanweston-black?style=flat-square&color=white" alt="LinkedIn Username" />
   </a>
+  
   <!-- Contact Info: Email -->
+  
   <a href="mailto:dbowmanweston@gmail.com">
     <img src="https://img.shields.io/badge/-red?logo=gmail&logoColor=white&style=flat-square" alt="Gmail Logo" />
   </a>
   <a href="mailto:dbowmanweston@gmail.com">
     <img src="https://img.shields.io/badge/dbowmanweston-black?style=flat-square&color=white" alt="Gmail Username" />
   </a>
-  <!-- Name -->
-  Dane Bowman-Weston
-  <!-- Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&duration=4000&pause=200&color=FFFFFF&center=false&vCenter=true&width=300&height=22&lines=Electrical+Engineer.;Computer+Engineer." alt="Typing SVG" />
-</h1>
+</p>
 
 <!-- Favorite Projects -->
 
